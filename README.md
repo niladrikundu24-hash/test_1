@@ -1,0 +1,3 @@
+This repo is created by me to keep my dsa practice codes for my college and personal practice and also to learn how to use git and github.
+
+Any further updates regarding the repo will be provided by me here....
